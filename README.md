@@ -2,10 +2,10 @@
 Segue alguns kext que usei no meu Hackintosh (Mojave 10.14.5)
 
 # Configuração da máquina
-Placa mãe: Dell Inc. 09WGNT
-Processador: I3-5005U
-IntelGraphics: 5500
-Wi-Fi/Bluetooth: Qualcomm Atheros
+.Placa mãe: Dell Inc. 09WGNT
+.Processador: I3-5005U
+.IntelGraphics: 5500
+.Wi-Fi/Bluetooth: Qualcomm Atheros
 (referencia para wifi: QCA9565 ou AR9565,referencia para bluetooth: Dell Wireless 1707)
 
 # O QUE FUNCIONA:
