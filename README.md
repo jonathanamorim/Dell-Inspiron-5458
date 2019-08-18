@@ -6,7 +6,8 @@ Placa mãe: Dell Inc. 09WGNT <br/>
 Processador: I3-5005U <br/>
 IntelGraphics: 5500 <br/>
 Wi-Fi/Bluetooth: Qualcomm Atheros <br/>
-(Referencia para wifi: QCA9565 ou AR9565. Referencia para bluetooth: Dell Wireless 1707)
+(Referencia para wifi: QCA9565 ou AR9565. Referencia para bluetooth: Dell Wireless 1707)<br/>
+Placa de audio integrada: RealTek ALC3234
 
 # O QUE FUNCIONA:
 1. Wi-fi (QCA9565 / AR9565)
