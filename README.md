@@ -6,7 +6,8 @@ Segue alguns kext que usei no meu Hackintosh (Mojave 10.14.5)
 2. Processador: I3-5005U
 3. IntelGraphics: 5500
 4. Wi-Fi/Bluetooth: Qualcomm Atheros
-(referencia para wifi: QCA9565 ou AR9565,referencia para bluetooth: Dell Wireless 1707)
+(referencia para wifi: QCA9565 ou AR9565
+referencia para bluetooth: Dell Wireless 1707)
 
 # O QUE FUNCIONA:
 1. Wi-fi (QCA9565 / AR9565)
