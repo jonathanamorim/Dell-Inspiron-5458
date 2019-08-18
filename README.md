@@ -16,6 +16,8 @@ Wi-Fi/Bluetooth: Qualcomm Atheros <br/>
 # O QUE NÃO FUNCIONA
 1. Bluetooth (Dell Wireless 1707 Bluetooth 4.0 LE)
 2. Rede Cabeada
+3. Camera integrada
 
 # O QUE ESTÁ MAIS OU MENOS
 1. Touchpad
+2. Som no fone de ouvido
