@@ -19,5 +19,3 @@ Wi-Fi/Bluetooth: Qualcomm Atheros <br/>
 
 # O QUE ESTÁ MAIS OU MENOS
 1. Touchpad
-
-# DATA DO HACKINTOSH 18/AGOSTO/2019, VOU TENTAR MANTER TUDO ATUALIZADO
