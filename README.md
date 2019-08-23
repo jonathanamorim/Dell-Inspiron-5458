@@ -13,12 +13,11 @@ Placa de audio integrada: RealTek ALC3234
 1. Wi-fi (QCA9565 / AR9565)
 2. Som (RealTek ALC255 / ALC3234)
 3. Gráficos (Intel Graphics 5500)
+4. Controle de brilho
+5. Imessenger e FaceTime
+6. USB
 
 # O QUE NÃO FUNCIONA
 1. Bluetooth (Dell Wireless 1707 Bluetooth 4.0 LE)
 2. Rede Cabeada
 3. Camera integrada
-
-# O QUE ESTÁ MAIS OU MENOS
-1. Touchpad
-2. Som no fone de ouvido
