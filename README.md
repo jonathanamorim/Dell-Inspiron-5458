@@ -1,5 +1,4 @@
-# PT-BR
-# Dell-Inspiron-5458
+# Dell-Inspiron-5458  PT-BR
 Segue alguns kext que usei no meu Hackintosh (Mojave 10.14.5)
 
 # Configuração da máquina
